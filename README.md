@@ -1,4 +1,4 @@
-![Hello](https://github.com/Hillaal/Hillaal/blob/main/computers.jpg)
+![Hello](https://github.com/Hillaal/Hillaal/blob/main/home.png)
 
 <!--
 **Hillaal/Hillaal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
